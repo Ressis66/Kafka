@@ -1,7 +1,7 @@
 Mикросервис "Metrics Producer  
 Endpoint:    
 POST http://localhost:8080/metrics  
-Body for testing:
+Body for testing:  
 {  
   "id": 1,  
   "timestamp": 1200,  
